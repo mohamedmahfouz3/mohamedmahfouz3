@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm mohamed Ahmed mahfouz</h1>
 <h3 align="center">I'm web developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedmahfouz3&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmahfouz3" /> </p>
 
 - 💬 Ask me about **react ,next ,node ,express**
 
@@ -24,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedmahfouz3&show_icons=true&locale=en" alt="mohamedmahfouz3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmahfouz3&" alt="mohamedmahfouz3" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedmahfouz3&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmahfouz3" /> </p>
+
