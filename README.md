@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mohamed Ahmed mahfouz</h1>
 <h3 align="center">I'm web developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedmahfouz3&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmahfouz3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmahfouz3&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmahfouz3" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207>
 
 - 💬 Ask me about **react ,next ,node ,express**
