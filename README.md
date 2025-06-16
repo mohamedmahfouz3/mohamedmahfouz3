@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mahfouz</h1>
 <h3 align="center">I'm Software Engineer and web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmahfouz3&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmahfouz3" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedmahfouz3" alt="mohamedmahfouz3" /></a> </p>
 
 - 🔭 I’m currently working on [Uber services](https://github.com/mohamedmahfouz3/Uber)
 
@@ -15,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed mahfouz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed mahfouz" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed ahmed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-mahfouz-81816523b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed mahfouz" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohamedahmed.132352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed ahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
